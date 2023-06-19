@@ -8,10 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-[CV] (http://chima-adiole.github.io/files/cv.pdf)
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
 [Download CV here](http://chima-adiole.github.io/files/cv.pdf)
 
 Education
@@ -22,30 +18,6 @@ Adviser: Chris Jermaine
 
 **Rice University**, B.A. Computer Science, 2019 - 2023 \
 *Distinction in Research and Creative Works*
-
-Work experience
-===============
-
-* Summer 2015: Research Assistant
-
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-* Fall 2015: Research Assistant
-
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
-======
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ============
