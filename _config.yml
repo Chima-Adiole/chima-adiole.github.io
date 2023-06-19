@@ -88,7 +88,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ca31@rice.edu"
-  cv               : "files/cv.pdf"
+  cv               : "http://chima-adiole.github.io/files/cv.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
