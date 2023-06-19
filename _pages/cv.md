@@ -12,10 +12,12 @@ redirect_from:
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
+[Download CV here](http://chima-adiole.github.io/files/cv.pdf)
+
 Education
 =========
 
-**Rice University**, M.S. Computer Science, 2023 - Present \
+**Rice University**, M.S. Computer Science, 2023 - present \
 Adviser: Chris Jermaine
 
 **Rice University**, B.A. Computer Science, 2019 - 2023 \
