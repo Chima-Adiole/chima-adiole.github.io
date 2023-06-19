@@ -13,7 +13,7 @@ redirect_from:
 Education
 =========
 
-**Rice University**, M.S. Computer Science, 2023 - present 
+**Rice University**, M.S. Computer Science, 2023 - Present
 Adviser: Chris Jermaine
 
 **Rice University**, B.A. Computer Science, 2019 - 2023 
