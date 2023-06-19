@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[pdf available here] (http://chima-adiole.github.io/files/cv.pdf)
+[CV] (http://chima-adiole.github.io/files/cv.pdf)
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
