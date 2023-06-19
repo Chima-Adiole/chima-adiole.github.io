@@ -80,9 +80,9 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : ""
+  name             : "Chima Adiole"
   avatar           : "ChimaAdiole.jpg"
-  # bio              : "MS Student, Computer Science, Rice University"
+  bio              : "MS in Computer Science, Rice University"
   # location         : "Houston, TX"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
