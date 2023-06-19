@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,17 +22,17 @@ Adviser: Chris Jermaine
 Publications
 ============
 
-*Race and ethnic minority, local pollution, and COVID-19 deaths in Texas.* 
+*Race and ethnic minority, local pollution, and COVID-19 deaths in Texas.* \
 Xu, A., Loch-Temzelides, T., **Adiole, C.** et al.  Sci Rep 12, 1002 (2022).
 
 ## Work in Progress
 
-*Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback.* 
+*Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback.* \
 Jain, A., **Adiole, C.**, Chaudhuri, S., Reps, T., Jermaine, C. Under Review.
 
 ## Other Publications
 
-*Adaptation to Climate Change and Japan’s Role on a Global Scale.* 
+*Adaptation to Climate Change and Japan’s Role on a Global Scale.* \
 Endo, R., Adachi, J., Ohashi, K., Murasaki, H., **Adiole, C.**, et al. Japan Center for Sustainable Environment and Society (2019).
 
 Poster Presentations
@@ -60,13 +60,13 @@ Honors and Awards
 Teaching
 ========
 
-**Teaching Assistant for COMP 215: Program Design**, Fall 2022 
+**Teaching Assistant for COMP 215: Program Design**, Fall 2022 \
 Rice University Computer Science Department, Houston, TX
 
-**Teaching Assistant for COMP 182: Algorithms**, Spring 2022 
+**Teaching Assistant for COMP 182: Algorithms**, Spring 2022 \
 Rice Computer Science Department, Houston, TX
 
-**Language Consultant for Japanese**, 2020 – 2023 
+**Language Consultant for Japanese**, 2020 – 2023 \
 Rice Center for Languages and Intercultural Communication, Houston, TX
 
 Service and Leadership
@@ -83,10 +83,10 @@ Service and Leadership
 Industry Experience
 ===================
 
-**Data Engineer Intern**, Summer 2022 
+**Data Engineer Intern**, Summer 2022 \
 Meta, Seattle, WA
 
-**Research Intern**, 2018 – 2019 
+**Research Intern**, 2018 – 2019 \
 Japan Center for Sustainable Environment and Society (JACSES), Tokyo, JPN
 
 Relevant Coursework
@@ -97,6 +97,6 @@ Machine Learning, Tools and Models for Data Science, Advanced Logic in Computer 
 Skills
 ======
 
-Programming Languages: Python, R, Java, C, SQL 
-Frameworks and Tools: Git, pandas, Jupyter Notebook, RStudio, TensorFlow 
-Languages: English (Fluent), Japanese (Fluent) \
+Programming Languages: Python, R, Java, C, SQL \
+Frameworks and Tools: Git, pandas, Jupyter Notebook, RStudio, TensorFlow  \
+Languages: English (Fluent), Japanese (Fluent) 
