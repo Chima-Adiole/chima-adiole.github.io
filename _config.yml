@@ -86,9 +86,8 @@ author:
   # location         : "Houston, TX"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=P8kyZsYPSWgC"
   email            : "ca31@rice.edu"
-  # cv               : "http://chima-adiole.github.io/files/cv.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
